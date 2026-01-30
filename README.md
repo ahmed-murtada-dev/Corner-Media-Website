@@ -1,5 +1,5 @@
 # Corner-Media-Website
-![Image Alt](https://github.com/ahmed-murtada-dev/Kanta-Marketing-Website/blob/main/Frame%202.png?raw=true)
+![Image Alt](https://github.com/ahmed-murtada-dev/Corner-Media-Website/blob/5ddcf8bfbfb563d89105518d4869f0b0e7d91c15/Corner%20Media%20Website.jpg?raw=true)
 <p align="center"> 
 </p>
 ---
